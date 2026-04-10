@@ -136,13 +136,17 @@ Reason:
 
 ### Files to modify
 
-- `README.md`
+- `profile/README.md`
   - final homepage content and embedded components
+- `README.md`
+  - repository note that points readers to the organization profile source
 
 ### Files to create
 
 - `docs/superpowers/specs/2026-04-10-pixeldog-profile-readme-design.md`
   - this design record
+- `profile/README.md`
+  - organization profile README used by the `.github` repository pattern
 - `.github/workflows/` workflow file for snake generation
   - scheduled automation for animated contribution asset
 
